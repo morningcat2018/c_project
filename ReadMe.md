@@ -7,7 +7,7 @@
 > git push -u origin master
 
 
-## CLion c_test_clion
+## c_test_clion
 
 CLion IDE 创建项目
 
@@ -17,7 +17,12 @@ cPrimerPlus6
 
 ## Xcode
 
-Xcode -> File -> 
+Xcode -> Create a new Xcode project
+-> macOS -> Application -> Command Line Tool 
+-> input project name 
+-> select Language is C
 
-## eclipse c_test_eclipse
+## c_test_eclipse
+
+Eclipse IDE 创建项目
 
