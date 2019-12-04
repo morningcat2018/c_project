@@ -1,5 +1,10 @@
 
 
+> git add *
+
+> git commit -m "xxx"
+
+> git push -u origin master
 
 
 ## c_test_clion
