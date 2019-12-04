@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug"/>
+				<Option working_dir="/Users/kevin/c_project/c_test_clion/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug"/>
+				<Option working_dir="/Users/kevin/c_project/c_test_clion/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug"/>
+				<Option working_dir="/Users/kevin/c_project/c_test_clion/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="c_test_clion">
-				<Option output="/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/c_test_clion" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug"/>
+				<Option output="/Users/kevin/c_project/c_test_clion/cmake-build-debug/c_test_clion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kevin/c_project/c_test_clion/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -51,15 +51,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_test_clion"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_test_clion"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="c_test_clion/fast">
-				<Option output="/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/c_test_clion" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug"/>
+				<Option output="/Users/kevin/c_project/c_test_clion/cmake-build-debug/c_test_clion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kevin/c_project/c_test_clion/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -71,23 +71,23 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_test_clion/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_test_clion/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kevin/c_project/c_test_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/kevin/CLionProjects/c_test_clion/main.c">
+		<Unit filename="/Users/kevin/c_project/c_test_clion/main.c">
 			<Option target="c_test_clion"/>
 		</Unit>
-		<Unit filename="/Users/kevin/CLionProjects/c_test_clion/test1.c">
+		<Unit filename="/Users/kevin/c_project/c_test_clion/test1.c">
 			<Option target="c_test_clion"/>
 		</Unit>
-		<Unit filename="/Users/kevin/CLionProjects/c_test_clion/test1.h">
+		<Unit filename="/Users/kevin/c_project/c_test_clion/test1.h">
 			<Option target="c_test_clion"/>
 		</Unit>
-		<Unit filename="/Users/kevin/CLionProjects/c_test_clion/CMakeLists.txt">
+		<Unit filename="/Users/kevin/c_project/c_test_clion/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

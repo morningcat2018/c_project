@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/kevin/CLionProjects/c_test_clion
+CMAKE_SOURCE_DIR = /Users/kevin/c_project/c_test_clion
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/kevin/CLionProjects/c_test_clion/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/kevin/c_project/c_test_clion/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/c_test_clion.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/c_test_clion.dir/flags.make
 
 CMakeFiles/c_test_clion.dir/main.c.o: CMakeFiles/c_test_clion.dir/flags.make
 CMakeFiles/c_test_clion.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/c_test_clion.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/main.c.o   -c /Users/kevin/CLionProjects/c_test_clion/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/c_test_clion.dir/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/main.c.o   -c /Users/kevin/c_project/c_test_clion/main.c
 
 CMakeFiles/c_test_clion.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_test_clion.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/CLionProjects/c_test_clion/main.c > CMakeFiles/c_test_clion.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/c_project/c_test_clion/main.c > CMakeFiles/c_test_clion.dir/main.c.i
 
 CMakeFiles/c_test_clion.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_test_clion.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/CLionProjects/c_test_clion/main.c -o CMakeFiles/c_test_clion.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/c_project/c_test_clion/main.c -o CMakeFiles/c_test_clion.dir/main.c.s
 
 CMakeFiles/c_test_clion.dir/test1.c.o: CMakeFiles/c_test_clion.dir/flags.make
 CMakeFiles/c_test_clion.dir/test1.c.o: ../test1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/c_test_clion.dir/test1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/test1.c.o   -c /Users/kevin/CLionProjects/c_test_clion/test1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/c_test_clion.dir/test1.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/test1.c.o   -c /Users/kevin/c_project/c_test_clion/test1.c
 
 CMakeFiles/c_test_clion.dir/test1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_test_clion.dir/test1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/CLionProjects/c_test_clion/test1.c > CMakeFiles/c_test_clion.dir/test1.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/c_project/c_test_clion/test1.c > CMakeFiles/c_test_clion.dir/test1.c.i
 
 CMakeFiles/c_test_clion.dir/test1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_test_clion.dir/test1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/CLionProjects/c_test_clion/test1.c -o CMakeFiles/c_test_clion.dir/test1.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/c_project/c_test_clion/test1.c -o CMakeFiles/c_test_clion.dir/test1.c.s
 
 # Object files for target c_test_clion
 c_test_clion_OBJECTS = \
@@ -95,7 +95,7 @@ c_test_clion: CMakeFiles/c_test_clion.dir/main.c.o
 c_test_clion: CMakeFiles/c_test_clion.dir/test1.c.o
 c_test_clion: CMakeFiles/c_test_clion.dir/build.make
 c_test_clion: CMakeFiles/c_test_clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable c_test_clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable c_test_clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c_test_clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/c_test_clion.dir/clean:
 .PHONY : CMakeFiles/c_test_clion.dir/clean
 
 CMakeFiles/c_test_clion.dir/depend:
-	cd /Users/kevin/CLionProjects/c_test_clion/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/kevin/CLionProjects/c_test_clion /Users/kevin/CLionProjects/c_test_clion /Users/kevin/CLionProjects/c_test_clion/cmake-build-debug /Users/kevin/CLionProjects/c_test_clion/cmake-build-debug /Users/kevin/CLionProjects/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/kevin/c_project/c_test_clion/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/kevin/c_project/c_test_clion /Users/kevin/c_project/c_test_clion /Users/kevin/c_project/c_test_clion/cmake-build-debug /Users/kevin/c_project/c_test_clion/cmake-build-debug /Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/c_test_clion.dir/depend
 
