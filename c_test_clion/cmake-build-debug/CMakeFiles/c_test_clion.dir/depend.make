@@ -6,3 +6,7 @@ CMakeFiles/c_test_clion.dir/main.c.o: ../test1.h
 
 CMakeFiles/c_test_clion.dir/test1.c.o: ../test1.c
 
+CMakeFiles/c_test_clion.dir/test2.c.o: ../test2.c
+
+CMakeFiles/c_test_clion.dir/test3.c.o: ../test3.c
+

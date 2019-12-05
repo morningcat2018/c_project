@@ -84,3 +84,38 @@ void testWhile(int x) {
     }
     printf("1 + ... + n = %d (n = %d) \n", sum, x);
 }
+
+void testFor(int x) {
+    int i, sum = 0;
+    for (i = 0; i <= x; i++) {
+        sum = sum + i;
+    }
+    printf("1 + ... + n = %d (n = %d) \n", sum, x);
+}
+
+int testIfelse(int x) {
+    if (x >= 60) {
+        return x;
+    } else if (x >= 30) {
+        return x / 2;
+    } else {
+        return 0;
+    }
+}
+
+void testFun(char x, ...) {
+
+}
+
+/**
+ * 递归 求阶乘
+ */
+long fact(int x) {
+    long ans;
+    if (x < 2) {
+        ans = 1L;
+    } else {
+        ans = x * fact(x - 1);
+    }
+    return ans;
+}

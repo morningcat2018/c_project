@@ -6,6 +6,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/kevin/c_project/c_test_clion/main.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/main.c.o"
   "/Users/kevin/c_project/c_test_clion/test1.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/test1.c.o"
+  "/Users/kevin/c_project/c_test_clion/test2.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/test2.c.o"
+  "/Users/kevin/c_project/c_test_clion/test3.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/test3.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

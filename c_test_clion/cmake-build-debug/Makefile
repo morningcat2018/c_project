@@ -177,6 +177,60 @@ test1.c.s:
 	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/test1.c.s
 .PHONY : test1.c.s
 
+test2.o: test2.c.o
+
+.PHONY : test2.o
+
+# target to build an object file
+test2.c.o:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/test2.c.o
+.PHONY : test2.c.o
+
+test2.i: test2.c.i
+
+.PHONY : test2.i
+
+# target to preprocess a source file
+test2.c.i:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/test2.c.i
+.PHONY : test2.c.i
+
+test2.s: test2.c.s
+
+.PHONY : test2.s
+
+# target to generate assembly for a file
+test2.c.s:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/test2.c.s
+.PHONY : test2.c.s
+
+test3.o: test3.c.o
+
+.PHONY : test3.o
+
+# target to build an object file
+test3.c.o:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/test3.c.o
+.PHONY : test3.c.o
+
+test3.i: test3.c.i
+
+.PHONY : test3.i
+
+# target to preprocess a source file
+test3.c.i:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/test3.c.i
+.PHONY : test3.c.i
+
+test3.s: test3.c.s
+
+.PHONY : test3.s
+
+# target to generate assembly for a file
+test3.c.s:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/test3.c.s
+.PHONY : test3.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +246,12 @@ help:
 	@echo "... test1.o"
 	@echo "... test1.i"
 	@echo "... test1.s"
+	@echo "... test2.o"
+	@echo "... test2.i"
+	@echo "... test2.s"
+	@echo "... test3.o"
+	@echo "... test3.i"
+	@echo "... test3.s"
 .PHONY : help
 
 

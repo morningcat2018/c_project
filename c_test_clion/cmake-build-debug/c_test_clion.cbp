@@ -87,6 +87,12 @@
 		<Unit filename="/Users/kevin/c_project/c_test_clion/test1.h">
 			<Option target="c_test_clion"/>
 		</Unit>
+		<Unit filename="/Users/kevin/c_project/c_test_clion/test2.c">
+			<Option target="c_test_clion"/>
+		</Unit>
+		<Unit filename="/Users/kevin/c_project/c_test_clion/test3.c">
+			<Option target="c_test_clion"/>
+		</Unit>
 		<Unit filename="/Users/kevin/c_project/c_test_clion/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

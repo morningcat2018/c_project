@@ -12,19 +12,5 @@ stdio.h
 test1.h
 /Users/kevin/c_project/c_test_clion/test1.h
 
-/Users/kevin/c_project/c_test_clion/test1.c
-stdio.h
--
-stdlib.h
--
-unistd.h
--
-pthread.h
--
-stdint.h
--
-string.h
--
-
 /Users/kevin/c_project/c_test_clion/test1.h
 
