@@ -30,7 +30,7 @@ int main() {
 //    testSwap(&x, &y);
 //    printf("x=%d ,y=%d \n", x, y);
 
-    test8();
+    test6();
 
     return 0;
 }

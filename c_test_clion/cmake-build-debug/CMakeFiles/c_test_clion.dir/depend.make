@@ -10,3 +10,5 @@ CMakeFiles/c_test_clion.dir/test2.c.o: ../test2.c
 
 CMakeFiles/c_test_clion.dir/test3.c.o: ../test3.c
 
+CMakeFiles/c_test_clion.dir/testArr.c.o: ../testArr.c
+
