@@ -8,6 +8,8 @@
 #define PI 3.1415926
 #define HELLO "hello"
 
+void testPointer2(int pooh);
+
 void butler(void) {
     short x = 1;
     short int y = 1;
@@ -118,4 +120,37 @@ long fact(int x) {
         ans = x * fact(x - 1);
     }
     return ans;
+}
+
+void testPointer(void) {
+    int pooh = 100;
+    // &pooh 是变量 pooh 的内存地址
+    printf("value is %d ,address is %p \n", pooh, &pooh);
+    testPointer2(pooh);
+}
+
+void testPointer2(int temp) {
+    printf("value is %d ,address is %p \n", temp, &temp);
+}
+
+void testPointer3(void) {
+    int bah = 100;
+    int *ptr = &bah;
+    printf(" %p \n", &bah);
+    printf(" %p \n", ptr);
+    printf(" %d \n", *ptr);
+}
+
+void testSwap(int *x, int *y) {
+    int temp;
+    temp = *x;
+    *x = *y;
+    *y = temp;
+}
+
+void testSwapError(int x, int y) {
+    int temp;
+    temp = x;
+    x = y;
+    y = temp;
 }

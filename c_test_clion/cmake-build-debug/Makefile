@@ -231,6 +231,33 @@ test3.c.s:
 	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/test3.c.s
 .PHONY : test3.c.s
 
+testArr.o: testArr.c.o
+
+.PHONY : testArr.o
+
+# target to build an object file
+testArr.c.o:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testArr.c.o
+.PHONY : testArr.c.o
+
+testArr.i: testArr.c.i
+
+.PHONY : testArr.i
+
+# target to preprocess a source file
+testArr.c.i:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testArr.c.i
+.PHONY : testArr.c.i
+
+testArr.s: testArr.c.s
+
+.PHONY : testArr.s
+
+# target to generate assembly for a file
+testArr.c.s:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testArr.c.s
+.PHONY : testArr.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -252,6 +279,9 @@ help:
 	@echo "... test3.o"
 	@echo "... test3.i"
 	@echo "... test3.s"
+	@echo "... testArr.o"
+	@echo "... testArr.i"
+	@echo "... testArr.s"
 .PHONY : help
 
 
