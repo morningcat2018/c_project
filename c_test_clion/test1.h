@@ -9,6 +9,8 @@ void testSizeof(void);
 
 void testThread(void);
 
+void testThread2(void);
+
 void testChar(void);
 
 void testLength(void);

@@ -3,4 +3,4 @@ project(c_test_clion C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(c_test_clion main.c test1.h test1.c test2.c test3.c testArr.c)
+add_executable(c_test_clion main.c test1.h test1.c test2.c test3.c testArr.c threadTest.c)

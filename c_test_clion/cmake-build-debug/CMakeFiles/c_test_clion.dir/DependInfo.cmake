@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/kevin/c_project/c_test_clion/test2.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/test2.c.o"
   "/Users/kevin/c_project/c_test_clion/test3.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/test3.c.o"
   "/Users/kevin/c_project/c_test_clion/testArr.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/testArr.c.o"
+  "/Users/kevin/c_project/c_test_clion/threadTest.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/threadTest.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

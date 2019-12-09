@@ -4,6 +4,12 @@
 int main() {
 
 //    testThread();
+
+    testThread2();
+
+    // ...
+
+
 //    testSizeof();
 //    testChar();
 //    testLength();
@@ -30,7 +36,9 @@ int main() {
 //    testSwap(&x, &y);
 //    printf("x=%d ,y=%d \n", x, y);
 
-    test6();
+//    test6();
+
+
 
     return 0;
 }

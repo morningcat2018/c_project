@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/c_test_clion.dir/test2.c.o"
   "CMakeFiles/c_test_clion.dir/test3.c.o"
   "CMakeFiles/c_test_clion.dir/testArr.c.o"
+  "CMakeFiles/c_test_clion.dir/threadTest.c.o"
   "c_test_clion.pdb"
   "c_test_clion"
 )
