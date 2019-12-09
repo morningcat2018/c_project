@@ -96,53 +96,95 @@ CMakeFiles/c_test_clion.dir/test2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_test_clion.dir/test2.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/c_project/c_test_clion/test2.c -o CMakeFiles/c_test_clion.dir/test2.c.s
 
-CMakeFiles/c_test_clion.dir/test3.c.o: CMakeFiles/c_test_clion.dir/flags.make
-CMakeFiles/c_test_clion.dir/test3.c.o: ../test3.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/c_test_clion.dir/test3.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/test3.c.o   -c /Users/kevin/c_project/c_test_clion/test3.c
+CMakeFiles/c_test_clion.dir/testIso646.c.o: CMakeFiles/c_test_clion.dir/flags.make
+CMakeFiles/c_test_clion.dir/testIso646.c.o: ../testIso646.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/c_test_clion.dir/testIso646.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/testIso646.c.o   -c /Users/kevin/c_project/c_test_clion/testIso646.c
 
-CMakeFiles/c_test_clion.dir/test3.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_test_clion.dir/test3.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/c_project/c_test_clion/test3.c > CMakeFiles/c_test_clion.dir/test3.c.i
+CMakeFiles/c_test_clion.dir/testIso646.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_test_clion.dir/testIso646.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/c_project/c_test_clion/testIso646.c > CMakeFiles/c_test_clion.dir/testIso646.c.i
 
-CMakeFiles/c_test_clion.dir/test3.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_test_clion.dir/test3.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/c_project/c_test_clion/test3.c -o CMakeFiles/c_test_clion.dir/test3.c.s
+CMakeFiles/c_test_clion.dir/testIso646.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_test_clion.dir/testIso646.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/c_project/c_test_clion/testIso646.c -o CMakeFiles/c_test_clion.dir/testIso646.c.s
 
-CMakeFiles/c_test_clion.dir/testArr.c.o: CMakeFiles/c_test_clion.dir/flags.make
-CMakeFiles/c_test_clion.dir/testArr.c.o: ../testArr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/c_test_clion.dir/testArr.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/testArr.c.o   -c /Users/kevin/c_project/c_test_clion/testArr.c
+CMakeFiles/c_test_clion.dir/testArray.c.o: CMakeFiles/c_test_clion.dir/flags.make
+CMakeFiles/c_test_clion.dir/testArray.c.o: ../testArray.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/c_test_clion.dir/testArray.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/testArray.c.o   -c /Users/kevin/c_project/c_test_clion/testArray.c
 
-CMakeFiles/c_test_clion.dir/testArr.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_test_clion.dir/testArr.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/c_project/c_test_clion/testArr.c > CMakeFiles/c_test_clion.dir/testArr.c.i
+CMakeFiles/c_test_clion.dir/testArray.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_test_clion.dir/testArray.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/c_project/c_test_clion/testArray.c > CMakeFiles/c_test_clion.dir/testArray.c.i
 
-CMakeFiles/c_test_clion.dir/testArr.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_test_clion.dir/testArr.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/c_project/c_test_clion/testArr.c -o CMakeFiles/c_test_clion.dir/testArr.c.s
+CMakeFiles/c_test_clion.dir/testArray.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_test_clion.dir/testArray.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/c_project/c_test_clion/testArray.c -o CMakeFiles/c_test_clion.dir/testArray.c.s
 
-CMakeFiles/c_test_clion.dir/threadTest.c.o: CMakeFiles/c_test_clion.dir/flags.make
-CMakeFiles/c_test_clion.dir/threadTest.c.o: ../threadTest.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/c_test_clion.dir/threadTest.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/threadTest.c.o   -c /Users/kevin/c_project/c_test_clion/threadTest.c
+CMakeFiles/c_test_clion.dir/testThread.c.o: CMakeFiles/c_test_clion.dir/flags.make
+CMakeFiles/c_test_clion.dir/testThread.c.o: ../testThread.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/c_test_clion.dir/testThread.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/testThread.c.o   -c /Users/kevin/c_project/c_test_clion/testThread.c
 
-CMakeFiles/c_test_clion.dir/threadTest.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_test_clion.dir/threadTest.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/c_project/c_test_clion/threadTest.c > CMakeFiles/c_test_clion.dir/threadTest.c.i
+CMakeFiles/c_test_clion.dir/testThread.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_test_clion.dir/testThread.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/c_project/c_test_clion/testThread.c > CMakeFiles/c_test_clion.dir/testThread.c.i
 
-CMakeFiles/c_test_clion.dir/threadTest.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_test_clion.dir/threadTest.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/c_project/c_test_clion/threadTest.c -o CMakeFiles/c_test_clion.dir/threadTest.c.s
+CMakeFiles/c_test_clion.dir/testThread.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_test_clion.dir/testThread.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/c_project/c_test_clion/testThread.c -o CMakeFiles/c_test_clion.dir/testThread.c.s
+
+CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.o: CMakeFiles/c_test_clion.dir/flags.make
+CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.o: ../testThirdLib_Sort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.o   -c /Users/kevin/c_project/c_test_clion/testThirdLib_Sort.c
+
+CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/c_project/c_test_clion/testThirdLib_Sort.c > CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.i
+
+CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/c_project/c_test_clion/testThirdLib_Sort.c -o CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.s
+
+CMakeFiles/c_test_clion.dir/testArray2.c.o: CMakeFiles/c_test_clion.dir/flags.make
+CMakeFiles/c_test_clion.dir/testArray2.c.o: ../testArray2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/c_test_clion.dir/testArray2.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/testArray2.c.o   -c /Users/kevin/c_project/c_test_clion/testArray2.c
+
+CMakeFiles/c_test_clion.dir/testArray2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_test_clion.dir/testArray2.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/c_project/c_test_clion/testArray2.c > CMakeFiles/c_test_clion.dir/testArray2.c.i
+
+CMakeFiles/c_test_clion.dir/testArray2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_test_clion.dir/testArray2.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/c_project/c_test_clion/testArray2.c -o CMakeFiles/c_test_clion.dir/testArray2.c.s
+
+CMakeFiles/c_test_clion.dir/testStructure1.c.o: CMakeFiles/c_test_clion.dir/flags.make
+CMakeFiles/c_test_clion.dir/testStructure1.c.o: ../testStructure1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/c_test_clion.dir/testStructure1.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_test_clion.dir/testStructure1.c.o   -c /Users/kevin/c_project/c_test_clion/testStructure1.c
+
+CMakeFiles/c_test_clion.dir/testStructure1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_test_clion.dir/testStructure1.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kevin/c_project/c_test_clion/testStructure1.c > CMakeFiles/c_test_clion.dir/testStructure1.c.i
+
+CMakeFiles/c_test_clion.dir/testStructure1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_test_clion.dir/testStructure1.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kevin/c_project/c_test_clion/testStructure1.c -o CMakeFiles/c_test_clion.dir/testStructure1.c.s
 
 # Object files for target c_test_clion
 c_test_clion_OBJECTS = \
 "CMakeFiles/c_test_clion.dir/main.c.o" \
 "CMakeFiles/c_test_clion.dir/test1.c.o" \
 "CMakeFiles/c_test_clion.dir/test2.c.o" \
-"CMakeFiles/c_test_clion.dir/test3.c.o" \
-"CMakeFiles/c_test_clion.dir/testArr.c.o" \
-"CMakeFiles/c_test_clion.dir/threadTest.c.o"
+"CMakeFiles/c_test_clion.dir/testIso646.c.o" \
+"CMakeFiles/c_test_clion.dir/testArray.c.o" \
+"CMakeFiles/c_test_clion.dir/testThread.c.o" \
+"CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.o" \
+"CMakeFiles/c_test_clion.dir/testArray2.c.o" \
+"CMakeFiles/c_test_clion.dir/testStructure1.c.o"
 
 # External object files for target c_test_clion
 c_test_clion_EXTERNAL_OBJECTS =
@@ -150,12 +192,15 @@ c_test_clion_EXTERNAL_OBJECTS =
 c_test_clion: CMakeFiles/c_test_clion.dir/main.c.o
 c_test_clion: CMakeFiles/c_test_clion.dir/test1.c.o
 c_test_clion: CMakeFiles/c_test_clion.dir/test2.c.o
-c_test_clion: CMakeFiles/c_test_clion.dir/test3.c.o
-c_test_clion: CMakeFiles/c_test_clion.dir/testArr.c.o
-c_test_clion: CMakeFiles/c_test_clion.dir/threadTest.c.o
+c_test_clion: CMakeFiles/c_test_clion.dir/testIso646.c.o
+c_test_clion: CMakeFiles/c_test_clion.dir/testArray.c.o
+c_test_clion: CMakeFiles/c_test_clion.dir/testThread.c.o
+c_test_clion: CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.o
+c_test_clion: CMakeFiles/c_test_clion.dir/testArray2.c.o
+c_test_clion: CMakeFiles/c_test_clion.dir/testStructure1.c.o
 c_test_clion: CMakeFiles/c_test_clion.dir/build.make
 c_test_clion: CMakeFiles/c_test_clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable c_test_clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking C executable c_test_clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c_test_clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

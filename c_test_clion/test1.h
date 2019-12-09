@@ -55,4 +55,10 @@ void test6(void);
 
 void test8();
 
+void test9();
+
+void test10();
+
+void test11();
+
 #endif //C_TEST_CLION_TEST1_H

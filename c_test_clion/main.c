@@ -1,11 +1,24 @@
 #include <stdio.h>
 #include "test1.h"
+#include "testStructure1.h"
+
 
 int main() {
 
+//    testFunction();
+//
+//    test11();
+
+    testBook();
+
+    return 0;
+}
+
+void testFunction(void) {
+
 //    testThread();
 
-    testThread2();
+//    testThread2();
 
     // ...
 
@@ -38,11 +51,4 @@ int main() {
 
 //    test6();
 
-
-
-    return 0;
-}
-
-void testFunction(void) {
-    printf("test function ...\n");
 }

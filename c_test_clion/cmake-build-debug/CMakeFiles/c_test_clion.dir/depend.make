@@ -3,14 +3,22 @@
 
 CMakeFiles/c_test_clion.dir/main.c.o: ../main.c
 CMakeFiles/c_test_clion.dir/main.c.o: ../test1.h
+CMakeFiles/c_test_clion.dir/main.c.o: ../testStructure1.h
 
 CMakeFiles/c_test_clion.dir/test1.c.o: ../test1.c
 
 CMakeFiles/c_test_clion.dir/test2.c.o: ../test2.c
 
-CMakeFiles/c_test_clion.dir/test3.c.o: ../test3.c
+CMakeFiles/c_test_clion.dir/testArray.c.o: ../testArray.c
 
-CMakeFiles/c_test_clion.dir/testArr.c.o: ../testArr.c
+CMakeFiles/c_test_clion.dir/testArray2.c.o: ../testArray2.c
 
-CMakeFiles/c_test_clion.dir/threadTest.c.o: ../threadTest.c
+CMakeFiles/c_test_clion.dir/testIso646.c.o: ../testIso646.c
+
+CMakeFiles/c_test_clion.dir/testStructure1.c.o: ../testStructure1.c
+
+CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.o: ../libsort/libsort.h
+CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.o: ../testThirdLib_Sort.c
+
+CMakeFiles/c_test_clion.dir/testThread.c.o: ../testThread.c
 

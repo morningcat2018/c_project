@@ -90,13 +90,25 @@
 		<Unit filename="/Users/kevin/c_project/c_test_clion/test2.c">
 			<Option target="c_test_clion"/>
 		</Unit>
-		<Unit filename="/Users/kevin/c_project/c_test_clion/test3.c">
+		<Unit filename="/Users/kevin/c_project/c_test_clion/testArray.c">
 			<Option target="c_test_clion"/>
 		</Unit>
-		<Unit filename="/Users/kevin/c_project/c_test_clion/testArr.c">
+		<Unit filename="/Users/kevin/c_project/c_test_clion/testArray2.c">
 			<Option target="c_test_clion"/>
 		</Unit>
-		<Unit filename="/Users/kevin/c_project/c_test_clion/threadTest.c">
+		<Unit filename="/Users/kevin/c_project/c_test_clion/testIso646.c">
+			<Option target="c_test_clion"/>
+		</Unit>
+		<Unit filename="/Users/kevin/c_project/c_test_clion/testStructure1.c">
+			<Option target="c_test_clion"/>
+		</Unit>
+		<Unit filename="/Users/kevin/c_project/c_test_clion/testStructure1.h">
+			<Option target="c_test_clion"/>
+		</Unit>
+		<Unit filename="/Users/kevin/c_project/c_test_clion/testThirdLib_Sort.c">
+			<Option target="c_test_clion"/>
+		</Unit>
+		<Unit filename="/Users/kevin/c_project/c_test_clion/testThread.c">
 			<Option target="c_test_clion"/>
 		</Unit>
 		<Unit filename="/Users/kevin/c_project/c_test_clion/CMakeLists.txt">

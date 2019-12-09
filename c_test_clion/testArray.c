@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #define MONTHS 12
 
 int add(int x, int y) {
@@ -69,4 +70,13 @@ void test8() {
     for (int i = 0; i < sizeof arr / sizeof arr[0]; i++) {
         printf("%d \n", arr[i]);
     }
+}
+
+void test9() {
+    int n = 6;
+    int arr[6];
+    int arr2[3 + 2];
+    int arr3[n]; // C99 之前不可用
+
+
 }

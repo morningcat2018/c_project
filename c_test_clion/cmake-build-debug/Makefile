@@ -204,86 +204,167 @@ test2.c.s:
 	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/test2.c.s
 .PHONY : test2.c.s
 
-test3.o: test3.c.o
+testArray.o: testArray.c.o
 
-.PHONY : test3.o
-
-# target to build an object file
-test3.c.o:
-	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/test3.c.o
-.PHONY : test3.c.o
-
-test3.i: test3.c.i
-
-.PHONY : test3.i
-
-# target to preprocess a source file
-test3.c.i:
-	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/test3.c.i
-.PHONY : test3.c.i
-
-test3.s: test3.c.s
-
-.PHONY : test3.s
-
-# target to generate assembly for a file
-test3.c.s:
-	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/test3.c.s
-.PHONY : test3.c.s
-
-testArr.o: testArr.c.o
-
-.PHONY : testArr.o
+.PHONY : testArray.o
 
 # target to build an object file
-testArr.c.o:
-	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testArr.c.o
-.PHONY : testArr.c.o
+testArray.c.o:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testArray.c.o
+.PHONY : testArray.c.o
 
-testArr.i: testArr.c.i
+testArray.i: testArray.c.i
 
-.PHONY : testArr.i
+.PHONY : testArray.i
 
 # target to preprocess a source file
-testArr.c.i:
-	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testArr.c.i
-.PHONY : testArr.c.i
+testArray.c.i:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testArray.c.i
+.PHONY : testArray.c.i
 
-testArr.s: testArr.c.s
+testArray.s: testArray.c.s
 
-.PHONY : testArr.s
+.PHONY : testArray.s
 
 # target to generate assembly for a file
-testArr.c.s:
-	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testArr.c.s
-.PHONY : testArr.c.s
+testArray.c.s:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testArray.c.s
+.PHONY : testArray.c.s
 
-threadTest.o: threadTest.c.o
+testArray2.o: testArray2.c.o
 
-.PHONY : threadTest.o
+.PHONY : testArray2.o
 
 # target to build an object file
-threadTest.c.o:
-	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/threadTest.c.o
-.PHONY : threadTest.c.o
+testArray2.c.o:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testArray2.c.o
+.PHONY : testArray2.c.o
 
-threadTest.i: threadTest.c.i
+testArray2.i: testArray2.c.i
 
-.PHONY : threadTest.i
+.PHONY : testArray2.i
 
 # target to preprocess a source file
-threadTest.c.i:
-	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/threadTest.c.i
-.PHONY : threadTest.c.i
+testArray2.c.i:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testArray2.c.i
+.PHONY : testArray2.c.i
 
-threadTest.s: threadTest.c.s
+testArray2.s: testArray2.c.s
 
-.PHONY : threadTest.s
+.PHONY : testArray2.s
 
 # target to generate assembly for a file
-threadTest.c.s:
-	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/threadTest.c.s
-.PHONY : threadTest.c.s
+testArray2.c.s:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testArray2.c.s
+.PHONY : testArray2.c.s
+
+testIso646.o: testIso646.c.o
+
+.PHONY : testIso646.o
+
+# target to build an object file
+testIso646.c.o:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testIso646.c.o
+.PHONY : testIso646.c.o
+
+testIso646.i: testIso646.c.i
+
+.PHONY : testIso646.i
+
+# target to preprocess a source file
+testIso646.c.i:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testIso646.c.i
+.PHONY : testIso646.c.i
+
+testIso646.s: testIso646.c.s
+
+.PHONY : testIso646.s
+
+# target to generate assembly for a file
+testIso646.c.s:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testIso646.c.s
+.PHONY : testIso646.c.s
+
+testStructure1.o: testStructure1.c.o
+
+.PHONY : testStructure1.o
+
+# target to build an object file
+testStructure1.c.o:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testStructure1.c.o
+.PHONY : testStructure1.c.o
+
+testStructure1.i: testStructure1.c.i
+
+.PHONY : testStructure1.i
+
+# target to preprocess a source file
+testStructure1.c.i:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testStructure1.c.i
+.PHONY : testStructure1.c.i
+
+testStructure1.s: testStructure1.c.s
+
+.PHONY : testStructure1.s
+
+# target to generate assembly for a file
+testStructure1.c.s:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testStructure1.c.s
+.PHONY : testStructure1.c.s
+
+testThirdLib_Sort.o: testThirdLib_Sort.c.o
+
+.PHONY : testThirdLib_Sort.o
+
+# target to build an object file
+testThirdLib_Sort.c.o:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.o
+.PHONY : testThirdLib_Sort.c.o
+
+testThirdLib_Sort.i: testThirdLib_Sort.c.i
+
+.PHONY : testThirdLib_Sort.i
+
+# target to preprocess a source file
+testThirdLib_Sort.c.i:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.i
+.PHONY : testThirdLib_Sort.c.i
+
+testThirdLib_Sort.s: testThirdLib_Sort.c.s
+
+.PHONY : testThirdLib_Sort.s
+
+# target to generate assembly for a file
+testThirdLib_Sort.c.s:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.s
+.PHONY : testThirdLib_Sort.c.s
+
+testThread.o: testThread.c.o
+
+.PHONY : testThread.o
+
+# target to build an object file
+testThread.c.o:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testThread.c.o
+.PHONY : testThread.c.o
+
+testThread.i: testThread.c.i
+
+.PHONY : testThread.i
+
+# target to preprocess a source file
+testThread.c.i:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testThread.c.i
+.PHONY : testThread.c.i
+
+testThread.s: testThread.c.s
+
+.PHONY : testThread.s
+
+# target to generate assembly for a file
+testThread.c.s:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testThread.c.s
+.PHONY : testThread.c.s
 
 # Help Target
 help:
@@ -303,15 +384,24 @@ help:
 	@echo "... test2.o"
 	@echo "... test2.i"
 	@echo "... test2.s"
-	@echo "... test3.o"
-	@echo "... test3.i"
-	@echo "... test3.s"
-	@echo "... testArr.o"
-	@echo "... testArr.i"
-	@echo "... testArr.s"
-	@echo "... threadTest.o"
-	@echo "... threadTest.i"
-	@echo "... threadTest.s"
+	@echo "... testArray.o"
+	@echo "... testArray.i"
+	@echo "... testArray.s"
+	@echo "... testArray2.o"
+	@echo "... testArray2.i"
+	@echo "... testArray2.s"
+	@echo "... testIso646.o"
+	@echo "... testIso646.i"
+	@echo "... testIso646.s"
+	@echo "... testStructure1.o"
+	@echo "... testStructure1.i"
+	@echo "... testStructure1.s"
+	@echo "... testThirdLib_Sort.o"
+	@echo "... testThirdLib_Sort.i"
+	@echo "... testThirdLib_Sort.s"
+	@echo "... testThread.o"
+	@echo "... testThread.i"
+	@echo "... testThread.s"
 .PHONY : help
 
 
