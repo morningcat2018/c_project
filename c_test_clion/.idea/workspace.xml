@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/main.c" description="//    testThread();" line="12" />
+    <bookmark url="file://$PROJECT_DIR$/main.c" description="//    testThread();" line="8" />
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
@@ -15,19 +15,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dffb7d41-a5e6-4667-a13f-23278d6c7aaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/libsort/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libsort/bubble_sort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libsort/common.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libsort/heap_sort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libsort/libsort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libsort/libsort.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libsort/quick_sort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libsort/select_sort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libsort/test_libsort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testArray2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testStructure1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testStructure1.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testThirdLib_Sort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testString.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testString.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
@@ -35,8 +24,6 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/main.c.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_test_clion.dir/progress.make" afterDir="false" />
@@ -46,9 +33,7 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/c_test_clion.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/c_test_clion.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test1.h" beforeDir="false" afterPath="$PROJECT_DIR$/test1.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3.c" beforeDir="false" afterPath="$PROJECT_DIR$/testIso646.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testArr.c" beforeDir="false" afterPath="$PROJECT_DIR$/testArray.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threadTest.c" beforeDir="false" afterPath="$PROJECT_DIR$/testThread.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testArray2.c" beforeDir="false" afterPath="$PROJECT_DIR$/testArray2.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,47 +51,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test1.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testArray2.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testStructure1.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
-                <element signature="e#1#19#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testStructure1.h">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testString.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="223">
+              <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,12 +90,14 @@
         <option value="$PROJECT_DIR$/sortTest.c" />
         <option value="$PROJECT_DIR$/libsort/test_libsort.c" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/test1.h" />
         <option value="$PROJECT_DIR$/testArray.c" />
-        <option value="$PROJECT_DIR$/testArray2.c" />
         <option value="$PROJECT_DIR$/testStructure1.h" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/testStructure1.c" />
+        <option value="$PROJECT_DIR$/testArray2.c" />
+        <option value="$PROJECT_DIR$/test1.h" />
+        <option value="$PROJECT_DIR$/testString.h" />
+        <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/testString.c" />
       </list>
     </option>
   </component>
@@ -206,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575458303795</updated>
       <workItem from="1575458305406" duration="579000" />
-      <workItem from="1575459318068" duration="38588000" />
+      <workItem from="1575459318068" duration="45258000" />
     </task>
     <task id="LOCAL-00001" summary="clion">
       <created>1575459388150</created>
@@ -250,11 +213,18 @@
       <option name="project" value="LOCAL" />
       <updated>1575872658137</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="struct">
+      <created>1575889538795</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575889538796</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39167000" />
+    <option name="totallyTimeSpent" value="45837000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -323,7 +293,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="clion" />
     <MESSAGE value="thread" />
-    <option name="LAST_COMMIT_MESSAGE" value="thread" />
+    <MESSAGE value="struct" />
+    <option name="LAST_COMMIT_MESSAGE" value="struct" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file:///Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include/opencl-c.h">
@@ -496,27 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testArray2.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testStructure1.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -526,10 +476,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testStructure1.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testArray2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testString.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="9" selection-start-line="9" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testString.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -285,6 +285,33 @@ testIso646.c.s:
 	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testIso646.c.s
 .PHONY : testIso646.c.s
 
+testString.o: testString.c.o
+
+.PHONY : testString.o
+
+# target to build an object file
+testString.c.o:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testString.c.o
+.PHONY : testString.c.o
+
+testString.i: testString.c.i
+
+.PHONY : testString.i
+
+# target to preprocess a source file
+testString.c.i:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testString.c.i
+.PHONY : testString.c.i
+
+testString.s: testString.c.s
+
+.PHONY : testString.s
+
+# target to generate assembly for a file
+testString.c.s:
+	$(MAKE) -f CMakeFiles/c_test_clion.dir/build.make CMakeFiles/c_test_clion.dir/testString.c.s
+.PHONY : testString.c.s
+
 testStructure1.o: testStructure1.c.o
 
 .PHONY : testStructure1.o
@@ -393,6 +420,9 @@ help:
 	@echo "... testIso646.o"
 	@echo "... testIso646.i"
 	@echo "... testIso646.s"
+	@echo "... testString.o"
+	@echo "... testString.i"
+	@echo "... testString.s"
 	@echo "... testStructure1.o"
 	@echo "... testStructure1.i"
 	@echo "... testStructure1.s"

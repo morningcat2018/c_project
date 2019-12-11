@@ -1,15 +1,11 @@
 #include <stdio.h>
 #include "test1.h"
 #include "testStructure1.h"
-
+#include "testString.h"
 
 int main() {
 
-//    testFunction();
-//
-//    test11();
-
-    testBook();
+    testString5();
 
     return 0;
 }
@@ -51,4 +47,13 @@ void testFunction(void) {
 
 //    test6();
 
+//    testFunction();
+
+//    test11();
+
+//    testBook();
+
+//    int arr[4] = {1, 45, 3, 4};
+//    int sumValue = sum2(arr, 4);
+//    printf("sum is %d\n", sumValue);
 }

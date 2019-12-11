@@ -61,4 +61,8 @@ void test10();
 
 void test11();
 
+int sum(int *, int);
+
+int sum2(int *, int);
+
 #endif //C_TEST_CLION_TEST1_H

@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/kevin/c_project/c_test_clion/testArray.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/testArray.c.o"
   "/Users/kevin/c_project/c_test_clion/testArray2.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/testArray2.c.o"
   "/Users/kevin/c_project/c_test_clion/testIso646.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/testIso646.c.o"
+  "/Users/kevin/c_project/c_test_clion/testString.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/testString.c.o"
   "/Users/kevin/c_project/c_test_clion/testStructure1.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/testStructure1.c.o"
   "/Users/kevin/c_project/c_test_clion/testThirdLib_Sort.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.o"
   "/Users/kevin/c_project/c_test_clion/testThread.c" "/Users/kevin/c_project/c_test_clion/cmake-build-debug/CMakeFiles/c_test_clion.dir/testThread.c.o"

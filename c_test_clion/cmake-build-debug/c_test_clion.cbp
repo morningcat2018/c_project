@@ -99,6 +99,12 @@
 		<Unit filename="/Users/kevin/c_project/c_test_clion/testIso646.c">
 			<Option target="c_test_clion"/>
 		</Unit>
+		<Unit filename="/Users/kevin/c_project/c_test_clion/testString.c">
+			<Option target="c_test_clion"/>
+		</Unit>
+		<Unit filename="/Users/kevin/c_project/c_test_clion/testString.h">
+			<Option target="c_test_clion"/>
+		</Unit>
 		<Unit filename="/Users/kevin/c_project/c_test_clion/testStructure1.c">
 			<Option target="c_test_clion"/>
 		</Unit>

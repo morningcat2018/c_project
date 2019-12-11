@@ -31,3 +31,21 @@ void test11() {
         printf("%p\n", &arr[i]);
     }
 }
+
+int sum(int *arr, int length) {
+    int sum = 0;
+
+    for (int i = 0; i < length; i++) {
+        sum += arr[i];
+    }
+    return sum;
+}
+
+int sum2(int arr[], int length) {
+    int sum = 0;
+
+    for (int i = 0; i < length; i++) {
+        sum += arr[i];
+    }
+    return sum;
+}

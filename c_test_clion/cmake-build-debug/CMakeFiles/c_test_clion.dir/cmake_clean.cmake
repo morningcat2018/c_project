@@ -8,6 +8,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/c_test_clion.dir/testThirdLib_Sort.c.o"
   "CMakeFiles/c_test_clion.dir/testArray2.c.o"
   "CMakeFiles/c_test_clion.dir/testStructure1.c.o"
+  "CMakeFiles/c_test_clion.dir/testString.c.o"
   "c_test_clion.pdb"
   "c_test_clion"
 )
