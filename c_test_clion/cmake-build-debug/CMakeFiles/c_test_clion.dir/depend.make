@@ -3,6 +3,7 @@
 
 CMakeFiles/c_test_clion.dir/main.c.o: ../main.c
 CMakeFiles/c_test_clion.dir/main.c.o: ../test1.h
+CMakeFiles/c_test_clion.dir/main.c.o: ../testString.h
 CMakeFiles/c_test_clion.dir/main.c.o: ../testStructure1.h
 
 CMakeFiles/c_test_clion.dir/test1.c.o: ../test1.c
@@ -14,6 +15,8 @@ CMakeFiles/c_test_clion.dir/testArray.c.o: ../testArray.c
 CMakeFiles/c_test_clion.dir/testArray2.c.o: ../testArray2.c
 
 CMakeFiles/c_test_clion.dir/testIso646.c.o: ../testIso646.c
+
+CMakeFiles/c_test_clion.dir/testString.c.o: ../testString.c
 
 CMakeFiles/c_test_clion.dir/testStructure1.c.o: ../testStructure1.c
 

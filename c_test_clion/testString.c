@@ -49,7 +49,12 @@ void testString6(void) {
     char msg[] = "This is a string.";
 }
 
-void testString7(void) {}
+void testString7(void) {
+    char *names[4] = {"Jone", "March", "Nov", "Kun"};
+    printf("%s \n", names[3]);
+    char names2[4][30] = {"Jone", "March", "Nov", "Kun"};
+    printf("%s \n", names2[2]);
+}
 
 void testString8(void) {}
 

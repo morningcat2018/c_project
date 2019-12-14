@@ -5,7 +5,7 @@
 
 int main() {
 
-    testString5();
+    testString7();
 
     return 0;
 }
