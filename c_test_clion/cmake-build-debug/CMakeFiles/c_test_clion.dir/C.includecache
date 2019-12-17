@@ -6,25 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/kevin/c_project/c_test_clion/main.c
-stdio.h
--
-test1.h
-/Users/kevin/c_project/c_test_clion/test1.h
-testStructure1.h
-/Users/kevin/c_project/c_test_clion/testStructure1.h
-testString.h
-/Users/kevin/c_project/c_test_clion/testString.h
-
-/Users/kevin/c_project/c_test_clion/test1.h
-
 /Users/kevin/c_project/c_test_clion/testString.c
 stdio.h
 -
 string.h
 -
-
-/Users/kevin/c_project/c_test_clion/testString.h
-
-/Users/kevin/c_project/c_test_clion/testStructure1.h
 
